@@ -25,7 +25,7 @@ git checkout -b feature/your-feature-name
 
 ## 🛠 What You Can Contribute
 
-Reference the [GETTING_STARTED.md]("https://github.com/HVCC-Computer-Science-Club/csclub_welcome/blob/main/GETTING_STARTED.md") for more information as to how to go about contributing 
+Reference the [csc_website/GETTING_STARTED.md](https://github.com/HVCC-Computer-Science-Club/csclub_welcome/blob/main/GETTING_STARTED.md) for more information as to how to go about contributing 
   
 There are many ways to contribute to this project:
 
