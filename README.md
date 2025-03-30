@@ -1,24 +1,26 @@
-# 📌 {{PROJECT_NAME}}
+# 📌 Computer Science Club Official Website 
 
 > A club-owned project created and maintained by the Computer Science Club.
 
-Brief description of what this project does, who it's for, and why it exists.
+A static website for sharing events, resources, and club updates.
 
 ---
 
 ## 🚀 Features
-
-- Feature 1
-- Feature 2
-- Feature 3
+- 🏠 Home page with mission: Tells people what the club is about
+- 📅 Upcoming events: Promotes workshops, meetings, hackathons
+- 🧑‍💻 Active projects: Showacases GitHub repos and open contributions
+- 🧠 Resources page: Share guides, tutorials, and `RESOURCES.md'
+- 🙋🏽 Join the club / contact: Form or links to join Discord, mailing list, etc.
+  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Languages: {{LANGUAGES}} (e.g., JavaScript, Python)
-- Frameworks: {{FRAMEWORKS}} (e.g., React, Flask)
-- Tools: {{TOOLS}} (e.g., MongoDB, TailwindCSS)
+- Languages: HTML, CSS, Javascript
+- Frameworks: Reacr
+- Tools: Netlify, Vercel
 
 ---
 
@@ -47,7 +49,7 @@ Start here → [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 See [GitHub contributors](../../graphs/contributors)  
 Or add your name below once you’ve made a contribution:
-- Your Name – your-role-or-contribution
+- Taiwo Omoya – mainitainer/project lead
 
 
 
