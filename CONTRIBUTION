@@ -1,4 +1,4 @@
-# 🤝 Contributing to {{PROJECT_NAME}}
+# 🤝 Contributing to CSC Official Website
 
 Thanks for your interest in contributing to this project!  
 This is a **club-owned project** created by members of the **Computer Science Club** to help us learn, build, and collaborate together.
@@ -15,7 +15,7 @@ Follow these steps to get the project running on your local machine:
 git clone https://github.com/YOUR_USERNAME/{{REPO_NAME}}.git
 
 # 3. Move into the project directory
-cd {{REPO_NAME}}
+cd CSC_website
 
 # 4. Create a new branch for your feature or fix
 git checkout -b feature/your-feature-name
@@ -25,6 +25,8 @@ git checkout -b feature/your-feature-name
 
 ## 🛠 What You Can Contribute
 
+Reference the [csc_welcome/CONTRIBUTING.md]("#") for more information as to how to go about contributing 
+  
 There are many ways to contribute to this project:
 
 - ✨ Add a new feature
@@ -61,8 +63,3 @@ We welcome all members — beginners and experienced alike — to contribute, le
 
 Let’s create something awesome 💙
 
----
-
-## 🧪 Project-Specific Notes for {{PROJECT_NAME}}
-
-**Add a project specific notes here
